@@ -1,0 +1,7 @@
+C:\Users\Eduzera\source\repos\lista\ex4\bin\Debug\ex4.exe.config
+C:\Users\Eduzera\source\repos\lista\ex4\bin\Debug\ex4.exe
+C:\Users\Eduzera\source\repos\lista\ex4\bin\Debug\ex4.pdb
+C:\Users\Eduzera\source\repos\lista\ex4\obj\Debug\ex4.csproj.AssemblyReference.cache
+C:\Users\Eduzera\source\repos\lista\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+C:\Users\Eduzera\source\repos\lista\ex4\obj\Debug\ex4.exe
+C:\Users\Eduzera\source\repos\lista\ex4\obj\Debug\ex4.pdb
