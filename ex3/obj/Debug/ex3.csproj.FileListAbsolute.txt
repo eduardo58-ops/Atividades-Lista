@@ -1,0 +1,7 @@
+C:\Users\Eduzera\source\repos\lista\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\Eduzera\source\repos\lista\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Eduzera\source\repos\lista\ex3\bin\Debug\ex3.exe.config
+C:\Users\Eduzera\source\repos\lista\ex3\bin\Debug\ex3.exe
+C:\Users\Eduzera\source\repos\lista\ex3\bin\Debug\ex3.pdb
+C:\Users\Eduzera\source\repos\lista\ex3\obj\Debug\ex3.exe
+C:\Users\Eduzera\source\repos\lista\ex3\obj\Debug\ex3.pdb
