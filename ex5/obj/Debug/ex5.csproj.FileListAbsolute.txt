@@ -1,0 +1,7 @@
+C:\Users\Eduzera\source\repos\lista\ex5\obj\Debug\ex5.csproj.AssemblyReference.cache
+C:\Users\Eduzera\source\repos\lista\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+C:\Users\Eduzera\source\repos\lista\ex5\bin\Debug\ex5.exe.config
+C:\Users\Eduzera\source\repos\lista\ex5\bin\Debug\ex5.exe
+C:\Users\Eduzera\source\repos\lista\ex5\bin\Debug\ex5.pdb
+C:\Users\Eduzera\source\repos\lista\ex5\obj\Debug\ex5.exe
+C:\Users\Eduzera\source\repos\lista\ex5\obj\Debug\ex5.pdb
