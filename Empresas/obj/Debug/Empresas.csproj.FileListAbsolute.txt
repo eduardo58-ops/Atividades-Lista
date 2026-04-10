@@ -1,0 +1,2 @@
+C:\Users\lab2094\source\repos\Atividades-Lista\Empresas\obj\Debug\Empresas.csproj.AssemblyReference.cache
+C:\Users\lab2094\source\repos\Atividades-Lista\Empresas\obj\Debug\Empresas.csproj.CoreCompileInputs.cache

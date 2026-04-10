@@ -5,3 +5,11 @@ C:\Users\Eduzera\source\repos\lista\ex1\obj\Debug\ex1.csproj.AssemblyReference.c
 C:\Users\Eduzera\source\repos\lista\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
 C:\Users\Eduzera\source\repos\lista\ex1\obj\Debug\ex1.exe
 C:\Users\Eduzera\source\repos\lista\ex1\obj\Debug\ex1.pdb
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\bin\Debug\ex1.exe.config
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\bin\Debug\ex1.exe
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\bin\Debug\ex1.pdb
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\obj\Debug\ex1.exe.config
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\obj\Debug\ex1.exe
+C:\Users\lab2094\source\repos\Atividades-Lista\ex1\obj\Debug\ex1.pdb
